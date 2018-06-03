@@ -1,0 +1,7 @@
+C:\Users\Nathaniel Richardson\source\repos\Richardson_Nathaniel_Methods\Richardson_Nathaniel_Methods\bin\Debug\Richardson_Nathaniel_Methods.exe.config
+C:\Users\Nathaniel Richardson\source\repos\Richardson_Nathaniel_Methods\Richardson_Nathaniel_Methods\bin\Debug\Richardson_Nathaniel_Methods.exe
+C:\Users\Nathaniel Richardson\source\repos\Richardson_Nathaniel_Methods\Richardson_Nathaniel_Methods\bin\Debug\Richardson_Nathaniel_Methods.pdb
+C:\Users\Nathaniel Richardson\source\repos\Richardson_Nathaniel_Methods\Richardson_Nathaniel_Methods\obj\Debug\Richardson_Nathaniel_Methods.csprojResolveAssemblyReference.cache
+C:\Users\Nathaniel Richardson\source\repos\Richardson_Nathaniel_Methods\Richardson_Nathaniel_Methods\obj\Debug\Richardson_Nathaniel_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Nathaniel Richardson\source\repos\Richardson_Nathaniel_Methods\Richardson_Nathaniel_Methods\obj\Debug\Richardson_Nathaniel_Methods.exe
+C:\Users\Nathaniel Richardson\source\repos\Richardson_Nathaniel_Methods\Richardson_Nathaniel_Methods\obj\Debug\Richardson_Nathaniel_Methods.pdb
