@@ -1,0 +1,7 @@
+C:\Users\Nathaniel Richardson\source\repos\Richardson_Nathaniel_Lists\Richardson_Nathaniel_Lists\bin\Debug\Richardson_Nathaniel_Lists.exe.config
+C:\Users\Nathaniel Richardson\source\repos\Richardson_Nathaniel_Lists\Richardson_Nathaniel_Lists\bin\Debug\Richardson_Nathaniel_Lists.exe
+C:\Users\Nathaniel Richardson\source\repos\Richardson_Nathaniel_Lists\Richardson_Nathaniel_Lists\bin\Debug\Richardson_Nathaniel_Lists.pdb
+C:\Users\Nathaniel Richardson\source\repos\Richardson_Nathaniel_Lists\Richardson_Nathaniel_Lists\obj\Debug\Richardson_Nathaniel_Lists.csprojResolveAssemblyReference.cache
+C:\Users\Nathaniel Richardson\source\repos\Richardson_Nathaniel_Lists\Richardson_Nathaniel_Lists\obj\Debug\Richardson_Nathaniel_Lists.csproj.CoreCompileInputs.cache
+C:\Users\Nathaniel Richardson\source\repos\Richardson_Nathaniel_Lists\Richardson_Nathaniel_Lists\obj\Debug\Richardson_Nathaniel_Lists.exe
+C:\Users\Nathaniel Richardson\source\repos\Richardson_Nathaniel_Lists\Richardson_Nathaniel_Lists\obj\Debug\Richardson_Nathaniel_Lists.pdb
